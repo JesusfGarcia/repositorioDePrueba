@@ -15,7 +15,7 @@ import { View, Text } from 'react-native';
 const VistaGeneralOptimizada = React.lazy(() => import('./views/vistaGeneral'));
 
 const MyNavegacion = createNativeStackNavigator();
-
+//development
 export default function App() {
   return (
     <NavigationContainer>
